@@ -233,7 +233,7 @@ Future showCopiedToClipboard(BuildContext context, String text) async {
     ));
   else {
     showToast(
-      interactive: true,
+      // interactive: true,
       padding: EdgeInsets.zero,
       alignment: Alignment(0, 1),
       duration: Duration(seconds: 4),

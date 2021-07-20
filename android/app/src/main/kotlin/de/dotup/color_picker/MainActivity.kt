@@ -1,4 +1,4 @@
-package de.dotup.sample
+package de.dotup.color_picker
 
 import io.flutter.embedding.android.FlutterActivity
 

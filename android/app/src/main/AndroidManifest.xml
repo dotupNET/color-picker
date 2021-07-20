@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.bruno.color_picker">
+    package="de.dotup.sample">
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:label="Color picker"
